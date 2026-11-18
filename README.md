@@ -16,7 +16,7 @@ Q(next) = T ⊕ Q   (Q(next) = Q if T = 0, Q(next) = Q' if T = 1)
 
 ## Design / RTL Program
 
-```
+
 ## Testbench Program
 
 
@@ -79,6 +79,7 @@ Q(next) = T ⊕ Q   (T Flip-Flop)
 The design was compiled and simulated using Synopsys VCS, and the functionality was verified using DVE waveform analysis, matching the expected truth table.
 
 **## Output**
+<img width="1853" height="984" alt="de exp 5" src="https://github.com/user-attachments/assets/81c15fb1-55f7-407e-91c9-6643cfa19a00" />
 
 
 ## Viva-Voce Questions
